@@ -1,2 +1,2 @@
-# regresionLineal
-Regresión lineal para predecir los gastos médicos de pacientes utilizando los datos del US Census Bureau se recabaron datos de gastos en seguros a partir de datos médicos de varios pacientes: [datos](https://www.kaggle.com/datasets/mirichoi0218/insurance).
+# Regresión Lineal
+En este proyecto se realizó una regresión lineal para predecir los gastos médicos de pacientes utilizando los datos del US Census Bureau se recabaron datos de gastos en seguros a partir de datos médicos de varios pacientes: [datos](https://www.kaggle.com/datasets/mirichoi0218/insurance). Los gastos médicos se predicen a partir de el número de hijos, la edad (elevada al cuadrado) y si el paciente es fumador y a la vez tiene un índice de masa corporal mayor a 30.
